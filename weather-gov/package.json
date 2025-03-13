@@ -8,6 +8,7 @@
     "@typespec/rest": "latest",
     "@typespec/openapi": "latest",
     "@typespec/openapi3": "latest",
+    "@typespec/versioning": "latest",
     "@azure-tools/typespec-ts": "latest"
   },
   "devDependencies": {
@@ -16,6 +17,7 @@
     "@typespec/rest": "latest",
     "@typespec/openapi": "latest",
     "@typespec/openapi3": "latest",
+    "@typespec/versioning": "latest",
     "@azure-tools/typespec-ts": "latest"
   },
   "private": true
